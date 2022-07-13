@@ -18,5 +18,6 @@ export class ui {
         bookList.appendChild(bookFrame);
       });
     }
+    
   static removeBook
 }
